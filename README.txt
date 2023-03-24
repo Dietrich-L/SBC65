@@ -41,6 +41,7 @@ BLINKY		1.1	blinking LED for testing
 CPUTYPE		1.0	identify 6502 type (NMOS or CMOS)
 AT28UTIL	1.0	Tool to read and write an AT28c16 EEPROM
 ERA24C32	1.0	Erase I2C AT24C32 EEPROM
+TEMP		1.0	Display temperature from RTC
 
 All software is supplied as assembler files to be assembled with the CPM-65 assembler. In case you wish to use a different assembler, the syntax has to be adapted accordingly.
 
